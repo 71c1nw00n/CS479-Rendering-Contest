@@ -4,6 +4,7 @@
 
 # 🚀 To 3DML and Beyond! 
 
+<img src="./representative_image.png" alt="representative image" width="1200">
 
 **[Team 18] CS479: Machine Learning for 3D Data — 3D Rendering Contest**
 KAIST, Spring 2026 · Prof. Minhyuk Sung
@@ -13,7 +14,8 @@ KAIST, Spring 2026 · Prof. Minhyuk Sung
 | **Minjun Youn** | `20210410` |
 | **Chaewoon Ki** | `20220049` |
 
-</div>
+
+
 
 ---
 
