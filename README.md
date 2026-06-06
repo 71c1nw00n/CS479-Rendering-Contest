@@ -19,7 +19,7 @@ KAIST, Spring 2026 · Prof. Minhyuk Sung
 
 ## Demo
 
-https://github.com/71c1nw00n/CS479-Rendering-Contest/raw/main/real_room_camera_render_fixed60.mp4
+[https://github.com/71c1nw00n/CS479-Rendering-Contest/raw/main/real_room_camera_render_fixed60.mp4](https://github.com/user-attachments/assets/ca1e860a-aebe-43b1-9b98-34f9d9da1ed1)
 
 <details>
 <summary>Video not playing? Open it directly</summary>
