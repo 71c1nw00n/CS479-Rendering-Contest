@@ -1,8 +1,9 @@
 <div align="center">
-<img src="./logo.jpg" alt="To 3DML and Beyond!" width="600">
+<img src="./logo.jpg" alt="To 3DML and Beyond!" width="200">
 </div>
 
 # 🚀 To 3DML and Beyond! 
+
 
 **[Team 18] CS479: Machine Learning for 3D Data — 3D Rendering Contest**
 KAIST, Spring 2026 · Prof. Minhyuk Sung
