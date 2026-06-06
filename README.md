@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./logo.png" alt="To 3DML and Beyond!" width="600">
+<img src="./logo.jpg" alt="To 3DML and Beyond!" width="600">
 </div>
 
 # 🚀 To 3DML and Beyond! 
